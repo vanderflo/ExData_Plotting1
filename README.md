@@ -6,10 +6,10 @@
 
 This repository includes:
 
-- Four independent R Scripts (plotX.R) that: </br>
--> Read data from dataset </br>
--> Format the columns with the correspondent data types  </br>
--> Create the plot and save it to a png file of the same name (plotX.png)  </br>
+- Four independent R Scripts (plotX.R) that: <br>
+-> Read data from dataset <br>
+-> Format the columns with the correspondent data types  <br>
+-> Create the plot and save it to a png file of the same name (plotX.png)  <br>
 - README file.
 
 
