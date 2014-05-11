@@ -1,3 +1,12 @@
+## Fernando Flores notes
+This repository includes:
+- Four independent R Scripts (plotX.R) that:
+  -- Read data from dataset
+  -- Format the columns with the correspondent data types
+  -- Create the plot and save it to a png file of the same name (plotX.png)
+- Dataset: household_power_consumption.txt file.
+- README file.
+
 ## Introduction
 
 This assignment uses data from
