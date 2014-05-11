@@ -4,8 +4,11 @@ This repository includes:
   -- Read data from dataset
   -- Format the columns with the correspondent data types
   -- Create the plot and save it to a png file of the same name (plotX.png)
-- Dataset: household_power_consumption.txt file.
 - README file.
+### Important
+- To make the scripts work, the dataset has to be downloaded to the same directory where thay are stored. 
+- The xip file can be downloaded from: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+- The dataset text file has to be called: household_power_consumption.txt. 
 
 ## Introduction
 
